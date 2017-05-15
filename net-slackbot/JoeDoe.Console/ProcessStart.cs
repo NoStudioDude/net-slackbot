@@ -13,7 +13,7 @@ namespace JoeDoe.Console
 
         public void Start()
         {
-            _bot.Connect("xoxb-112732886693-eyrxVFyMjY3B9JU8QiW4nTSi");
+            _bot.Connect("YOUR_SLACK_BOT_API");
         }
 
         public void Stop()
